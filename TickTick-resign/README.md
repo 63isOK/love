@@ -133,3 +133,5 @@ cef/pion/webrtc,好像这几年都是学到自己肚子里了,落实到产品中
 - webrtchanck.com的跟进
 
 前两个目标近期可以完成,后两个目标可持续进行.
+
+今天开始webrtc spec的二刷,正在展开中.
