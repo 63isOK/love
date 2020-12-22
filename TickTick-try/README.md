@@ -545,7 +545,7 @@ sdk还包括以下问题:
 直播预研还包括:
 
 - 混流还要混声音
-- web拉流可通过flv.js/video.js实现
+- web拉流可通过flv.js/video.js实现  -- 浏览器不支持rtmp,这些js都不能用
 - 推流可以试试lal
 - 尝试cdn的部署
 
@@ -554,6 +554,7 @@ sdk还包括以下问题:
 - pion的webrtc/ion源码需要阅读了(这个可以在下班之后进行)
 - apache/trafficcontrol源码阅读,了解cdn的流程
 - spec的继续阅读
+- windbg预览版学习使用
 
 本月问题:
 
