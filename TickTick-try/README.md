@@ -1077,4 +1077,11 @@ sdk还包括以下问题:
 
 ## 2021/01/27
 
-pion/rtp收尾,pion/rtcp开始研究
+pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
+
+## 2021/01/28
+
+今日任务:
+
+- pion/rtcp分析
+- 中期述职
