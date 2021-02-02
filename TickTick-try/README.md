@@ -1107,6 +1107,30 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 
 - 中期述职
 - pion的分析
+- pion/ion压测
+
+剩下待跟踪事情
+
+- [ ] 学习平台刷题
+- [ ] 技术规范的学习
+- [ ] 经验分享的学习
+
+遗留问题:
+
+- lal源码学习,livego也是类似的项目
+- pion的webrtc/ion源码需要阅读了(这个可以在下班之后进行,这个作为每天30公里的目标,每天一小时.)
+- apache/trafficcontrol源码阅读,了解cdn的流程
+- spec的继续阅读
+- windbg预览版学习使用
+- graphql了解,github客户端实现
+- dart/flutter 端侧技术跟进
+
+## 2021/02/02
+
+今日任务:
+
+- 中期述职
+- pion的分析
 
 剩下待跟踪事情
 
