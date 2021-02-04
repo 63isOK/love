@@ -1147,3 +1147,16 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 - windbg预览版学习使用
 - graphql了解,github客户端实现
 - dart/flutter 端侧技术跟进
+
+## 2021/02/03
+
+今日任务:
+
+- 中期述职
+- 虚拟机开发环境的配置
+
+## 2021/02/04
+
+今日任务:
+
+- pion/ion-sfu.buffer包分析
