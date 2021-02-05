@@ -1160,3 +1160,11 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 今日任务:
 
 - pion/ion-sfu.buffer包分析
+
+## 2021/02/05
+
+今日任务:
+
+- pion/ion-sfu.buffer包分析
+
+开源库的分析,结果不能用天赋来换,只能用时间和函数来换.
