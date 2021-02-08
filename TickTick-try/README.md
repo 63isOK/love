@@ -1179,3 +1179,17 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 - 开始研究rfc推出的webrtc标准
 
 总的来说,ietf还是做了很多事.
+
+## 2021/02/07
+
+今日任务:
+
+- 研究rfc webrtc概览
+- 开始研究rfc webrtc的传输
+
+## 2021/02/08
+
+今日任务:
+
+- 开始研究rfc webrtc的传输
+- 年会
