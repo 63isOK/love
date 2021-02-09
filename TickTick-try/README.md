@@ -1193,3 +1193,9 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 
 - 开始研究rfc webrtc的传输
 - 年会
+
+## 2021/02/09
+
+今日任务:
+
+- 研究rfc webrtc的传输
