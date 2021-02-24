@@ -1259,3 +1259,19 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 白天8小时主要解决融屏的问题,其他时间优先处理flutter/webrtc/ion的学习.
 
 融屏现在主要是熟悉ffmpeg去做直播和录制,中间还有转码,要看的东西非常多.
+
+## 2021/02/24
+
+长期目标:
+
+- webrtc rfc
+- flutter/dart
+- pion/Go
+
+这些长期目标都是需要一步步走的,没有每天的30公里,就没有一个月的千公里.
+白天8小时主要解决工作中的问题,其他时间优先处理flutter/webrtc/ion的学习.
+
+今日任务:
+
+研究mod_av是如何调用ffmpeg来处理avformat的.
+
