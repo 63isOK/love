@@ -1306,3 +1306,24 @@ pion/rtp收尾,pion/rtcp开始研究,主要研究sr包
 
 今天理顺了mod_av的open和音频的read,明天完成视频的read和写操作,
 后天完成关闭等,若有时间就继续研究一下ffmpeg官方mux demo.
+
+## 2021/02/27
+
+长期目标:
+
+- webrtc rfc
+- flutter/dart
+- pion/Go
+
+这些长期目标都是需要一步步走的,没有每天的30公里,就没有一个月的千公里.
+白天8小时主要解决工作中的问题,其他时间优先处理flutter/webrtc/ion的学习.
+
+昨日任务:
+
+今天理顺了mod_av的open和音频的read,明天完成视频的read和写操作,
+后天完成关闭等,若有时间就继续研究一下ffmpeg官方mux demo.
+
+今日任务:
+
+理顺了mod_av的写(视频写和音频写),明天读完关闭,和ffmpeg的mux demo,
+重点工作是将图调用图画出来. 周一的任务的是将类封装出来,并讨论pts同步相关问题.
