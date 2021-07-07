@@ -58,8 +58,28 @@
 今日目标:
 
 - 重要紧急
-  - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
+  - jetlinks iot平台熟悉(已完成)
 - 重要不紧急
+  - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
+  - devops熟悉(主要是先拎清框架,再熟悉具体的模块)
+  - 项目资料熟悉,[研发](http://192.168.210.37:8001/#group/2/)
+  - 通用图例,[processON](https://processon.com/diagrams)
+  - iot的核心接口,[iot api](https://jy5u.w.eolinker.com/share/index?shareCode=CDfsiC)
+- 紧急不重要
+  - clickhouse的熟悉
+- 不紧急不重要
+  - mainflux(一个分布式的iot平台)
+  - 多熟悉一下优秀日志库/ota方案
+  - 语雀空间的资料熟悉
+
+## 2021/07/07
+
+今日目标:
+
+- 重要紧急
+  - ddd了解
+- 重要不紧急
+  - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
   - devops熟悉(主要是先拎清框架,再熟悉具体的模块)
   - 项目资料熟悉,[研发](http://192.168.210.37:8001/#group/2/)
   - 通用图例,[processON](https://processon.com/diagrams)
