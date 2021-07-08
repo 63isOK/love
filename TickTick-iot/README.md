@@ -77,7 +77,7 @@
 今日目标:
 
 - 重要紧急
-  - ddd了解
+  - ddd了解(以概念为主)
 - 重要不紧急
   - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
   - devops熟悉(主要是先拎清框架,再熟悉具体的模块)
@@ -86,6 +86,28 @@
   - iot的核心接口,[iot api](https://jy5u.w.eolinker.com/share/index?shareCode=CDfsiC)
 - 紧急不重要
   - clickhouse的熟悉
+- 不紧急不重要
+  - mainflux(一个分布式的iot平台)
+  - 多熟悉一下优秀日志库/ota方案
+  - 语雀空间的资料熟悉
+
+每周三晚上8点,deeplus都会有直播分享.
+
+## 2021/07/08
+
+今日目标:
+
+- 重要紧急
+  - ddd了解(补齐剩余的概念,之后以实践案例为主,体会ddd的思路)
+- 重要不紧急
+  - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
+  - devops熟悉(主要是先拎清框架,再熟悉具体的模块)
+  - 项目资料熟悉,[研发](http://192.168.210.37:8001/#group/2/)
+  - 通用图例,[processON](https://processon.com/diagrams)
+  - iot的核心接口,[iot api](https://jy5u.w.eolinker.com/share/index?shareCode=CDfsiC)
+- 紧急不重要
+  - clickhouse的熟悉
+  - wot的熟悉
 - 不紧急不重要
   - mainflux(一个分布式的iot平台)
   - 多熟悉一下优秀日志库/ota方案
