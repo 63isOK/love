@@ -105,6 +105,29 @@
   - 项目资料熟悉,[研发](http://192.168.210.37:8001/#group/2/)
   - 通用图例,[processON](https://processon.com/diagrams)
   - iot的核心接口,[iot api](https://jy5u.w.eolinker.com/share/index?shareCode=CDfsiC)
+  - ddd需要阅读两本书(evans的ddd蓝皮书和vernon的iddd红皮书)
+- 紧急不重要
+  - clickhouse的熟悉
+  - wot的熟悉
+- 不紧急不重要
+  - mainflux(一个分布式的iot平台)
+  - 多熟悉一下优秀日志库/ota方案
+  - 语雀空间的资料熟悉
+
+## 2021/07/09
+
+今日目标:
+
+- 重要紧急
+  - ddd了解(查看知识星球上的ddd落地方法)
+- 重要不紧急
+  - 二刷tttc的iot文档和阿里iot文档(目的是整理iot中和设备相关的技术,以及大致实现方式)
+  - devops熟悉(主要是先拎清框架,再熟悉具体的模块)
+  - 项目资料熟悉,[研发](http://192.168.210.37:8001/#group/2/)
+  - 通用图例,[processON](https://processon.com/diagrams)
+  - iot的核心接口,[iot api](https://jy5u.w.eolinker.com/share/index?shareCode=CDfsiC)
+  - ddd需要阅读两本书(evans的ddd蓝皮书和vernon的iddd红皮书)
+  - 安全架构,书籍阅读
 - 紧急不重要
   - clickhouse的熟悉
   - wot的熟悉
